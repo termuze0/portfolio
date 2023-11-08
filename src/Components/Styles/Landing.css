@@ -1,0 +1,10 @@
+.LandingSec{
+    width: 100%;
+    min-height:200vh;
+    border: 2px solid red;
+}
+#bg{
+    width:100%;
+    /* position: fixed; */
+    z-index:-1;
+}
